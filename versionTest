@@ -1,0 +1,17 @@
+﻿version: "0.9 Paltus"
+date: 2022-02-20
+message: >
+  <br />Changes summary:<br />
+  - <b>something</b><br />
+  - something else<br />
+  - something third<br />
+  
+linkMessage: To download LAST version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
+
+versionBeta: "0.9 beta XI"
+dateBeta: 2022-04-12
+messageBeta: >
+  <br />Some changes...<br />
+  -...
+
+linkMessageBeta: To download last BETA version and review last changes please visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
