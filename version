@@ -9,7 +9,7 @@ message: >
   
 linkMessage: To download this version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
 
-versionBeta: "0.9 beta I"
+versionBeta: "0.91 beta I"
 dateBeta: 2022-04-17
 messageBeta: >
   <br />Some changes...<br />
