@@ -3,16 +3,16 @@ date: 2022-02-17
 
 message: >
   <br />Changes summary:<br />
-  - <b>something</b><br />
-  - something else<br />
-  - something third<br />
+  - review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a>
   
 linkMessage: To download this version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
 
 versionBeta: "0.91 beta I"
-dateBeta: 2022-04-17
+dateBeta: 2022-04-18
 messageBeta: >
-  <br />Some changes...<br />
-  -...
+  <br />Main changes:<br />
+  - variables support
+  - simple connections manager, save encrypted passwords
+  - automatic updates checker, set updatesCheckInterval: 0 to disable
 
-linkMessageBeta: To download last BETA version and review last changes please visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
+linkMessageBeta: To download last BETA version and review last changes visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
