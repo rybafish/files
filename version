@@ -3,12 +3,15 @@ date: 2022-02-17
 
 message: >
   <br />Changes summary:<br />
-  - review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a>
+  - multiline KPIs<br />
+  - aletrs functionality<br />
+  - highlighting<br />
+  - and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a>
   
 linkMessage: To download this version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
 
 versionBeta: "0.91 beta I"
-dateBeta: 2022-04-18
+dateBeta: 2022-04-20
 messageBeta: >
   <br />Main changes:<br />
   - variables support<br />
