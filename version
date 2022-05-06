@@ -10,10 +10,14 @@ message: >
   
 linkMessage: To download this version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
 
-versionBeta: "0.91 beta I"
-dateBeta: 2022-04-24
+versionBeta: "0.91 beta II"
+dateBeta: 2022-05-06
 messageBeta: >
   <br />Main changes:<br />
+  Beta II<br />
+  - Alt+N to change tab<br />
+  - 'others' option for multiline KPIs<br />
+  Beta I<br />
   - variables support<br />
   - simple connections manager, save encrypted passwords<br />
   - automatic updates checker, set updatesCheckInterval: 0 to disable<br />
