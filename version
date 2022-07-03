@@ -15,9 +15,9 @@ dateBeta: 2022-06-30
 messageBeta: >
   <br />Main changes:<br />
   Beta IV<br />
-  - SQL Console toolbar
-  - SQL Browser (F11)
-  - syntax highlighter performance boost (x2)
+  - SQL Console toolbar<br />
+  - SQL Browser (F11)<br />
+  - syntax highlighter performance boost (x2)<br />
   Beta III<br />
   - McAffe fix<br />
   - execution profiler: check .log file after exit from RybaFish.<br />
