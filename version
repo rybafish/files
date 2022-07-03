@@ -18,16 +18,19 @@ messageBeta: >
   - SQL Console toolbar<br />
   - SQL Browser (F11)<br />
   - syntax highlighter performance boost (x2)<br />
+<br />
   Beta III<br />
   - McAffe fix<br />
   - execution profiler: check .log file after exit from RybaFish.<br />
+<br />
   Beta II<br />
   - Alt+N to change tab<br />
   - 'others' option for multiline KPIs<br />
+<br />
   Beta I<br />
   - variables support<br />
   - simple connections manager, save encrypted passwords<br />
   - automatic updates checker, set updatesCheckInterval: 0 to disable<br />
   - screen DPI awareness
-
+<br /><br />
 linkMessageBeta: To download last BETA version and review last changes visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
