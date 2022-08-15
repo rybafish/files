@@ -5,11 +5,11 @@ message: >
   <br />Main changes:<br />
   - SQL Console toolbar<br />
   - SQL Browser (F11)<br />
-  - and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a>
   - variables support<br />
   - simple connections manager, save encrypted passwords<br />
   - automatic updates checker, set updatesCheckInterval: 0 to disable<br />
-  - screen DPI awareness
+  - screen DPI awareness<br />
+  - and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a>
   
 linkMessage: To download this version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
 
