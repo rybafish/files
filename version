@@ -18,6 +18,7 @@ dateBeta: 2022-10-02
 messageBeta: >
   <br />Main changes:<br />
   - SSL support<br />
-  - and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a><br /><br />
+
+#- and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a><br /><br />
   
 linkMessageBeta: To download last BETA version and review last changes visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
