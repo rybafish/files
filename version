@@ -11,7 +11,7 @@ message: >
   - screen DPI awareness<br />
   - and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a>
   
-linkMessageZ: To download this version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
+linkMessage: To download this version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
 
 versionBeta: "0.92 beta I"
 dateBeta: 2022-10-02
@@ -21,4 +21,4 @@ messageBeta: >
 
 #- and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a><br /><br />
   
-linkMessageBetaZ: To download last BETA version and review last changes visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
+linkMessageBeta: To download last BETA version and review last changes visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
