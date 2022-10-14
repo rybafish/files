@@ -1,17 +1,24 @@
-﻿version: "0.9 Paltus"
-date: 2022-02-21
+version: "0.91 Sig"
+date: 2022-08-12
+
 message: >
-  <br />Changes summary:<br />
-  - <b>something</b><br />
-  - something else<br />
-  - something third<br />
+  <br />Main changes:<br />
+  - SQL Console toolbar<br />
+  - SQL Browser (F11)<br />
+  - variables support<br />
+  - simple connections manager, save encrypted passwords<br />
+  - automatic updates checker, set updatesCheckInterval: 0 to disable<br />
+  - screen DPI awareness<br />
+  - and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a>
   
-linkMessage: To download LAST version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
+linkMessage: To download this version and review last changes please visit rybafish.net.
 
-versionBeta: "0.91 beta I"
-dateBeta: 2022-04-17
+versionBeta: "0.92 beta I TEST!"
+dateBeta: 2022-10-14
 messageBeta: >
-  <br />Some changes...<br />
-  -...
-
-linkMessageBeta: To download last BETA version and review last changes please visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
+  <br />Main changes:<br />
+  - SSL support<br />
+  - test message<br />
+  once again, this is a test message<br /><br />
+  
+linkMessageBeta: To download last BETA version and review last changes visit rybafish.net.
