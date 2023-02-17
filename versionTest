@@ -1,19 +1,25 @@
-version: "THIS IS A TEST"
-date: 2022-10-16
+version: "0.91 Sig"
+date: 2022-08-12
 
 message: >
   <br />Main changes:<br />
   - SQL Console toolbar<br />
   - SQL Browser (F11)<br />
   - variables support<br />
+  - simple connections manager, save encrypted passwords<br />
+  - automatic updates checker, set updatesCheckInterval: 0 to disable<br />
+  - screen DPI awareness<br />
   - and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a>
   
-versionBeta: "ALSO TEST"
-dateBeta: 2022-10-14
+linkMessage: To download this version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
+
+versionBeta: "0.93 beta 0"
+dateBeta: 2023-02-16
 messageBeta: >
   <br />Main changes:<br />
   - SSL support<br />
-  - test message<br />
-  once again, this is a test message<br /><br />
+  - Experimental SQLite connector<br />
+  - CSV impotr wizard (beta)<br />
+  - Performance stability and usability updates<br />
   
-linkMessageeBeta: To download last BETA version and review last changes visit rybafish.net.
+linkMessageBeta: To download last BETA version and review last changes visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
