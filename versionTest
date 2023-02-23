@@ -21,5 +21,6 @@ messageBeta: >
   - Experimental SQLite connector<br />
   - CSV impotr wizard (beta)<br />
   - Performance stability and usability updates<br />
+  - ...<br />
   
 linkMessageBeta: To download last beta version and review last changes visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
