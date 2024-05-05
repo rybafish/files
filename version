@@ -1,24 +1,28 @@
-version: "0.91 Sig"
-date: 2022-08-12
+version: "0.95 Ishkhan"
+date: 2023-08-17
 
 message: >
   <br />Main changes:<br />
-  - SQL Console toolbar<br />
-  - SQL Browser (F11)<br />
-  - variables support<br />
-  - simple connections manager, save encrypted passwords<br />
-  - automatic updates checker, set updatesCheckInterval: 0 to disable<br />
-  - screen DPI awareness<br />
-  - and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a>
+  - log file rotation<br />
+  - extended timezone management<br />
+  - extended multiline kpis (async)<br />
+  - SSL connection support<br />
+  - CSV import wizard (beta)<br />
+  - Performance stability and usability updates<br />
+  <br />
+  <b>Experimental</b> features:<br />
+  &nbsp; &nbsp; - SQLite support<br />
+  &nbsp; &nbsp; - secondary connection support<br />
   
-linkMessage: To download this version and review last changes please visit <a href="https://www.rybafish.net/">rybafish.net</a>.
-
-versionBeta: "0.92 beta I"
-dateBeta: 2022-10-02
+versionBeta: "0.96 beta III"
+dateBeta: 2024-04-27
 messageBeta: >
   <br />Main changes:<br />
-  - SSL support<br />
+  - SAP HANA Cloud support (BTP)<br />
+  - Password change dialog<br />
+  - KPIs presets<br />
+  - in-line filtering in KPIs table<br />
+  - Import dialog clean-up<br />
+  - Console notification button<br />
 
-#- and many more: review changes on <a href="https://www.rybafish.net/changelog">rybafish.net/changelog</a><br /><br />
-  
-linkMessageBeta: To download last BETA version and review last changes visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.
+linkMessageBeta: To download (1) last BETA version and review last changes visit <a href="https://www.rybafish.net/changelog">rybafish.net</a>.  
